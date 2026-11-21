@@ -1,0 +1,22 @@
+{
+  "key.category.propwash.main": "Propwash FPV",
+  "key.propwash.selftest": "Самопроверка (для разработки)",
+  "propwash.build.issue.accessory_mount": "Этот аксессуар нельзя установить на раму",
+  "propwash.build.issue.battery_weak": "Аккумулятор не может выдать нужный ток",
+  "propwash.build.issue.esc_undersized": "Регуляторы оборотов не рассчитаны на ток, который потребляют эти моторы",
+  "propwash.build.issue.motor_mount": "Крепления моторов не подходят к раме",
+  "propwash.build.issue.motor_overvoltage": "Напряжение аккумулятора слишком высокое для этих моторов",
+  "propwash.build.issue.motor_undervoltage": "Напряжение аккумулятора слишком низкое для этих моторов",
+  "propwash.build.issue.prop_too_large": "Пропеллеры слишком велики для этой рамы",
+  "propwash.build.issue.stack_mount": "Крепление стека не подходит к раме",
+  "propwash.build.issue.stack_voltage": "Напряжение аккумулятора не подходит для этого стека",
+  "propwash.network.version_mismatch": "Версии Propwash FPV не совпадают.\nНа сервере: %s (сетевой протокол %s)\nУ вас: %s (сетевой протокол %s)\nУстановите ту же версию Propwash FPV, что и на сервере.",
+  "propwash.network.version_missing": "Для подключения к этому серверу нужен Propwash FPV %s (сетевой протокол %s). Установите именно эту версию.",
+  "propwash.part_category.accessory": "Аксессуары",
+  "propwash.part_category.battery": "Аккумулятор",
+  "propwash.part_category.frame": "Рама",
+  "propwash.part_category.motor": "Моторы",
+  "propwash.part_category.prop": "Пропеллеры",
+  "propwash.part_category.stack": "Полётный контроллер / регулятор оборотов",
+  "propwash.part_category.video": "Видеосистема"
+}
