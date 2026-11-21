@@ -1,0 +1,8 @@
+{
+  "propwash.content.mount.prop.universal": "Универсальный (подходит для любого вала)",
+  "propwash.webexport.command.crash": "Веб-экспорт прерван: %s",
+  "propwash.webexport.command.fail": "Веб-экспорт завершён с ошибками: %s – подробности в файле problems.json в %s",
+  "propwash.webexport.command.pass": "Веб-экспорт завершён: деталей %s (%s), предупреждений %s – %s",
+  "propwash.webexport.command.start": "Идёт веб-экспорт (%s) – сервер приостановится на несколько секунд …",
+  "propwash.webexport.command.unknown": "Неизвестное пространство имён %s – доступны: all, %s"
+}

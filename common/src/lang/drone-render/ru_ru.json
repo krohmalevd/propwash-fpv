@@ -1,0 +1,19 @@
+{
+  "propwash.drone_render.tab": "Отображение",
+  "propwash.drone_render.visual_scale": "Размер дрона: %s",
+  "propwash.drone_render.size_notice.title": "Дроны теперь в натуральную величину",
+  "propwash.drone_render.size_notice.message": "Теперь дроны отображаются в натуральную величину (1.0× вместо 1.75×), и их скорость выглядит реалистичнее. Вернуть прежний масштаб: Конфигуратор → Отображение → Размер дрона.",
+  "propwash.drone_render.prop_blur": "Размытие по уровню газа: %s",
+  "propwash.drone_render.render_distance": "Дальность прорисовки: %s",
+  "propwash.drone_render.arm_leds": "Светодиоды на лучах",
+  "propwash.drone_render.shadow": "Тень",
+  "propwash.drone_render.shadow.tip": "Тени дронов на земле. При включённом пакете шейдеров тени рисует сам пакет, и в FPV-полёте ваш дрон тоже отбрасывает тень. Если настройка выключена, теней у дронов нет даже с пакетом шейдеров.",
+  "propwash.drone_render.section": "Дрон в мире",
+  "propwash.drone_render.percent": "%s%%",
+  "propwash.drone_render.section.preview": "Предпросмотр",
+  "propwash.drone_render.section.fpv": "Вид FPV",
+  "propwash.drone_render.fpv_props": "Пропеллеры в FPV",
+  "propwash.drone_render.fpv_props.tip": "Показывает пропеллеры вашего дрона, их моторы и лучи там, где они действительно были бы видны при таком положении, наклоне и угле обзора камеры: у 5-дюймовой рамы с большим наклоном камеры на краях кадра видны кончики пропеллеров, у рамы deadcat они вне кадра. Настройка влияет только на отображение.",
+  "propwash.drone_render.fpv_ducts": "Кольцевая защита в FPV",
+  "propwash.drone_render.fpv_ducts.tip": "Показывает кольцевую защиту пропеллеров вашего whoop или cinewhoop там, где она действительно была бы видна при таком положении, наклоне и угле обзора камеры – передние кольца видны в нижних углах, так как камера расположена над ними, как у настоящих дронов. Настройка влияет только на отображение."
+}

@@ -1,0 +1,6 @@
+{
+  "propwash.help.signal_repeater.use.5": "В руке: сигнал до ближайшего ретранслятора.",
+  "propwash.relay.meter.none": "В радиусе действия нет ретрансляторов",
+  "propwash.relay.meter.off": "Ретрансляторы сигнала отключены правилом мира",
+  "propwash.relay.meter.signal": "Сигнал до ретранслятора: %s %% · %s m"
+}

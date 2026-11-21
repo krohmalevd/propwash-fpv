@@ -1,0 +1,12 @@
+{
+  "key.propwash.accessory_action_1": "Действие аксессуара 1",
+  "key.propwash.accessory_action_2": "Действие аксессуара 2",
+  "key.propwash.accessory_action_3": "Действие аксессуара 3",
+  "key.propwash.accessory_action_4": "Действие аксессуара 4",
+  "propwash.accessory.menu.title": "Аксессуары",
+  "propwash.accessory.menu.load": "Груз %s g",
+  "propwash.accessory.menu.hint": "Масса груза учитывается в полёте.",
+  "propwash.accessory.service.button": "Аксессуары",
+  "propwash.accessory.service.tooltip": "Открыть инвентарь аксессуаров, например для загрузки боеприпасов",
+  "propwash.accessory.assist.failed": "Помощник пилотирования из дополнения отключён (ошибка, см. журнал)"
+}

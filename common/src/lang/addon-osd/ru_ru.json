@@ -1,0 +1,7 @@
+{
+  "propwash.osd.group.addon": "Дополнения",
+  "propwash.osd.editor.addon_source": "Дополнение: %s",
+  "propwash.osd.editor.addon_failed": "Отключено до конца сеанса из-за ошибки – см. журнал.",
+  "propwash.osd.element.spectators": "Зрители",
+  "propwash.osd.element.spectators.description": "Сколько игроков, помимо пилота, сейчас смотрят видео с этого дрона: в режиме наблюдения по F7 или в очках на его канале. Оператор подвеса не учитывается. Отображается, только пока есть зрители."
+}

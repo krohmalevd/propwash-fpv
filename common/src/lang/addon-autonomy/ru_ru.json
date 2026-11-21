@@ -1,0 +1,23 @@
+{
+  "propwash.drone.autonomy.started": "%s летит самостоятельно (%s)",
+  "propwash.drone.autonomy.not_armable": "%s: арминг невозможен: %s",
+  "propwash.drone.autonomy.ended.pilot": "%s: пилот взял управление",
+  "propwash.drone.autonomy.ended.landed": "%s приземлился",
+  "propwash.drone.autonomy.ended.battery": "%s: низкий заряд аккумулятора",
+  "propwash.drone.autonomy.ended.owner_offline": "%s: владелец не в сети",
+  "propwash.drone.autonomy.ended.out_of_range": "%s: вне зоны действия",
+  "propwash.drone.autonomy.ended.stopped": "%s: полёт остановлен дополнением",
+  "propwash.drone.autonomy.ended.timeout": "%s: достигнуто предельное время полёта",
+  "propwash.drone.autonomy.ended.error": "%s: ошибка помощника пилотирования из дополнения",
+  "propwash.drone.autonomy.ended.replaced": "%s: начат новый автономный полёт",
+  "propwash.drone.autonomy.ended.terrain_limit": "%s: достигнут край мира – дроны не могут генерировать здесь новые участки",
+  "propwash.drone.autonomy.no_budget.player": "%s: запуск автономного полёта невозможен – не более %s одновременно на игрока (правило мира “%s”)",
+  "propwash.drone.autonomy.no_budget.server": "%s: запуск автономного полёта невозможен – не более %s одновременно на сервере (правило мира “%s”)",
+  "propwash.drone.autonomy.no_budget.off": "%s: автономные полёты отключены в этом мире (правило мира “%s” = 0)",
+  "gamerule.propwash.autonomous_flights_per_player": "Одновременные автономные полёты на игрока",
+  "gamerule.propwash.autonomous_flights_per_player.description": "Сколькими дронами игрока дополнения могут одновременно управлять без пилота, например при выполнении миссии, следовании за целью или удержании позиции. При достижении лимита новый полёт не запускается, а игрок получает сообщение со значением лимита. GPS Rescue без пилота имеет приоритет, для него всегда зарезервировано ещё одно место на игрока. 0 = ни одного.",
+  "gamerule.propwash.autonomous_flights_per_player.value.0": "Нет",
+  "gamerule.propwash.autonomous_flights_total": "Общий лимит автономных полётов",
+  "gamerule.propwash.autonomous_flights_total.description": "Сколькими дронами дополнения могут одновременно управлять без пилота на всём сервере. GPS Rescue без пилота имеет приоритет, для него всегда зарезервировано ещё два места. 0 = ни одного.",
+  "gamerule.propwash.autonomous_flights_total.value.0": "Нет"
+}

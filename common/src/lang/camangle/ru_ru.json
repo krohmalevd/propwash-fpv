@@ -1,0 +1,7 @@
+{
+  "propwash.video.camera_angle": "Угол наклона камеры вверх",
+  "propwash.video.camera_angle.also": "Также доступно в меню обслуживания дрона (красться + правая кнопка мыши).",
+  "propwash.video.camera_angle.none": "Управляйте дроном или возьмите его в руку, чтобы изменить угол камеры.",
+  "propwash.video.camera_section": "Камера этого дрона",
+  "propwash.video.camera_section.footer": "Угол камеры: сохраняется в дроне · остальное: для всех дронов"
+}

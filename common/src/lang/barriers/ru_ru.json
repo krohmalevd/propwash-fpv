@@ -1,0 +1,20 @@
+{
+  "block.propwash.drone_block_barrier": "Барьер для дронов",
+  "block.propwash.drone_pass_barrier": "Барьер с пролётом для дронов",
+  "propwash.help.drone_block_barrier.fits": "Все виды дронов, включая дроны из дополнений",
+  "propwash.help.drone_block_barrier.summary": "Невидимая стена, которая задерживает только дроны",
+  "propwash.help.drone_block_barrier.use.1": "Дроны разбиваются или отскакивают, как при ударе о блок.",
+  "propwash.help.drone_block_barrier.use.2": "Игроки, мобы, предметы и стрелы проходят.",
+  "propwash.help.drone_block_barrier.use.3": "В творческом режиме: контур при наведении, значки с барьером в руке.",
+  "propwash.help.drone_block_barrier.use.4": "Пропускает свет, редстоун и видеосигнал.",
+  "propwash.help.drone_block_barrier.what.1": "Только для творческого режима: без рецепта и возможности добычи.",
+  "propwash.help.drone_block_barrier.what.2": "Не влияет на время или очки в гонке.",
+  "propwash.help.drone_pass_barrier.fits": "Все виды дронов, включая дроны из дополнений",
+  "propwash.help.drone_pass_barrier.summary": "Невидимая стена, которая пропускает только дроны",
+  "propwash.help.drone_pass_barrier.use.1": "Задерживает игроков, мобов, предметы и стрелы.",
+  "propwash.help.drone_pass_barrier.use.2": "Дроны всех видов свободно пролетают.",
+  "propwash.help.drone_pass_barrier.use.3": "В творческом режиме: контур при наведении, значки с барьером в руке.",
+  "propwash.help.drone_pass_barrier.use.4": "Пропускает свет, редстоун и видеосигнал.",
+  "propwash.help.drone_pass_barrier.what.1": "Только для творческого режима: без рецепта и возможности добычи.",
+  "propwash.help.drone_pass_barrier.what.2": "Не влияет на время или очки в гонке."
+}

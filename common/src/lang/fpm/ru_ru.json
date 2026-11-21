@@ -1,0 +1,4 @@
+{
+  "propwash.osd.element.flight_path_marker": "Маркер траектории",
+  "propwash.osd.element.flight_path_marker.description": "Показывает на изображении с камеры, куда на самом деле движется дрон. Скрыт при скорости ниже 1.5 m/s."
+}

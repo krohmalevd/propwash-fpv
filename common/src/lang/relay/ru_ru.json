@@ -1,0 +1,15 @@
+{
+  "block.propwash.signal_repeater": "Ретранслятор сигнала",
+  "gamerule.propwash.signal_repeaters": "Ретрансляторы на одну линию связи",
+  "gamerule.propwash.signal_repeaters.description": "Сколько ретрансляторов сигнала могут передавать видео и управление по цепочке между пилотом и дроном (не более 4). Дальность каждого звена такая же, как у прямой связи – для видео её определяет видеопередатчик дрона, для управления аппаратура – а стены и перекрытия ослабляют сигнал на каждом звене как обычно. Круги с ретрансляторами засчитываются в таблицах лидеров. 0 = ретрансляторы отключены.",
+  "gamerule.propwash.signal_repeaters.value.0": "Выкл.",
+  "propwash.help.signal_repeater.fits": "Аналоговое и цифровое видео, любая аппаратура",
+  "propwash.help.signal_repeater.summary": "Передаёт видео и управление по цепочке",
+  "propwash.help.signal_repeater.use.1": "Установите на пол, стену или потолок.",
+  "propwash.help.signal_repeater.use.2": "Цепочки до 4 ретрансляторов (правило мира).",
+  "propwash.help.signal_repeater.use.3": "OSD \"RPT\": число ретрансляторов, сигнал на каждом звене.",
+  "propwash.help.signal_repeater.use.4": "Круги с ретрансляторами засчитываются как обычно.",
+  "propwash.help.signal_repeater.what.1": "Для крупных построек: бетон и перекрытия",
+  "propwash.help.signal_repeater.what.2": "глушат видео. Один ретранслятор на лестнице",
+  "propwash.help.signal_repeater.what.3": "передаёт изображение на следующий этаж."
+}

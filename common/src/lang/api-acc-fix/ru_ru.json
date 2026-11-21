@@ -1,0 +1,8 @@
+{
+  "propwash.accessory.menu.overloaded": "Груз %s g · перегруз",
+  "propwash.accessory.menu.overloaded.hint": "Перегруз: аксессуар вместе с грузом учитывается в пределах %s g, в полётной модели масса этого груза составляет %s g.",
+  "propwash.build.issue.accessory_frame": "Аксессуар подходит только для других рам",
+  "propwash.content.workbench.slot_hint.accessory_other_frames": "Для этой рамы не подходит, совместимые рамы: %s",
+  "propwash.drone.tooltip.overloaded": "Перегруз: аксессуар с грузом весит более %s kg",
+  "propwash.osd.warning.overloaded": "ПЕРЕГРУЗ"
+}

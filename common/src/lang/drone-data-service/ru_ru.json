@@ -1,0 +1,6 @@
+{
+  "propwash.drone.service.extensions.more": "Ещё",
+  "propwash.drone.service.extensions.more.tooltip": "Ещё %s кнопок дополнений",
+  "propwash.drone.service.extensions.title": "Инструменты дополнений",
+  "propwash.drone.service.extensions.hidden": "Не поместилось: %s"
+}

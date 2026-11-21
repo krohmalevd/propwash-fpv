@@ -1,0 +1,9 @@
+{
+  "propwash.drone.operator.bound": "Вы управляете камерой дрона %s",
+  "propwash.drone.operator.ended": "Управление камерой дрона %s завершено",
+  "propwash.drone.operator.leave_hint": "Esc возвращает управление камерой",
+  "propwash.drone.operator.photo_saved": "Фото сохранено: %s",
+  "propwash.drone.operator.photo_title": "Фото сохранено",
+  "propwash.drone.operator.pilot": "%s управляет вашей камерой",
+  "propwash.drone.operator.pilot_ended": "%s больше не управляет вашей камерой"
+}
